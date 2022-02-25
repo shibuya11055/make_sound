@@ -1,9 +1,0 @@
-setcps (120/60/4)
-
-p "demo" $ s "[hit:3 | hh:7]"
-
-d2 $ s "bd(3, 8)"
-
-d3 $ s "{hh:0 hh:1*4}%6 hh hh"
-
-hush

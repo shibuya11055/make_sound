@@ -1,0 +1,13 @@
+setcps (120/60/4)
+
+d1 $ s "glitch:5 [~ ~ glitch:8*5 ~] ~ [~ armora]"
+
+d2 $ s "808bd [~ 808bd] 808bd [~ 808bd 808bd] ~"
+
+d3 $ s "auto:6 bend [~ clak ~ clak:2] auto:5*16"
+# gain 0.7
+# lpf "800 8000 800 150"
+
+d4 $ s "[hh hh]"
+
+hush
